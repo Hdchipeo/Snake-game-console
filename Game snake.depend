@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1686004800 source:c:\users\chot\desktop\lesson c\my code\game snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"Prototype.h"
+
+1686413545 c:\users\chot\desktop\lesson c\my code\game snake\prototype.h
+
+1686440162 source:c:\users\chot\desktop\lesson c\my code\game snake\main (1).c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"Prototype.h"
+
+1687819895 source:c:\users\ad\desktop\game snake-20230611t025234z-001\game snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+	<mmsystem.h>
+	"Prototype.h"
+
+1687666257 c:\users\ad\desktop\game snake-20230611t025234z-001\game snake\prototype.h
+
+1688769686 source:c:\users\chot\desktop\lesson c\my code\game snake-20230706t223853z-001\game snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+	<mmsystem.h>
+	<stdbool.h>
+	"Prototype.h"
+
+1688767655 c:\users\chot\desktop\lesson c\my code\game snake-20230706t223853z-001\game snake\prototype.h
+
+1690090352 source:c:\users\ad\desktop\game snake-20230611t025234z-001\game snake-20230708t105422z-001\game snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+	<mmsystem.h>
+	<stdbool.h>
+	"Prototype.h"
+
+1690090366 c:\users\ad\desktop\game snake-20230611t025234z-001\game snake-20230708t105422z-001\game snake\prototype.h
+
